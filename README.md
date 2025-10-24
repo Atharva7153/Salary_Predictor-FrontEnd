@@ -2,7 +2,7 @@
 
 A modern, user-friendly web application that predicts salaries based on years of experience, age, and number of certifications. The application features a clean, responsive design and provides real-time salary predictions using a machine learning model.
 
-![Salary Predictor Preview](https://i.imgur.com/your-image-here.png)
+
 
 ## Features
 
@@ -100,10 +100,6 @@ You can customize the appearance by modifying the CSS variables in `style.css`:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/salary-predictor
 
 ## Acknowledgments
 
